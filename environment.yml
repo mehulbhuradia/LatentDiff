@@ -1,4 +1,4 @@
-name: LatentDiff
+name: Lenv
 channels:
   - bioconda
   - pytorch

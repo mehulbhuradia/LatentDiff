@@ -1,0 +1,6 @@
+LatentDiff/data/AFPDB_data_128_Train_complete.pt
+LatentDiff/data/PDB_data_128_Test_complete.pt
+LatentDiff/trained_weights/autoencoder_trained_weights/checkpoint_bst_rmsd.pt
+LatentDiff/data/PDB_data_128_Val_complete.pt
+LatentDiff/trained_weights/latent_diffusion_trained_weights/args.pickle
+LatentDiff/trained_weights/latent_diffusion_trained_weights/generative_model_16000.npy
